@@ -1,0 +1,4 @@
+Utilisateur(id,nom,email,password)
+Article(id,titre,contenu,date de pub ,id-utilisateur,id-categorie)
+commentaire(id,contenu,date,id-utilisateur,id-article)
+catégorie(id,nom,)
